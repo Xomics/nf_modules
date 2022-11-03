@@ -11,7 +11,7 @@ git submodule add https://github.com/Xomics/nf_modules.git
 
 Update submodule:
 ```
-git submodule update --remote
+git submodule update --remote --init nf_modules
 ```
 
 ## Config file
