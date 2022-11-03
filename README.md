@@ -13,3 +13,7 @@ Update submodule:
 ```
 git submodule update --remote
 ```
+
+## Config file
+
+The [config file](nextflow.config) in this repository serves as an example on how to configure the analysis modules in your own pipeline
