@@ -11,8 +11,6 @@ project_dir = projectDir
 
 process SNF {
 
-	label 'full_resources'
-
 	publishDir "${params.output}/SNF", mode: 'copy', overwrite: true
 	
 	input: 
