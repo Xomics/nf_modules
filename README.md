@@ -16,4 +16,4 @@ git submodule update --remote --init nf_modules
 
 ## Config file
 
-The [config file](nextflow.config) in this repository serves as an example on how to configure the analysis modules in your own pipeline
+The [config_examples/](config_examples/) directory in this repository provides examples on how to configure the analysis modules in your own pipeline
